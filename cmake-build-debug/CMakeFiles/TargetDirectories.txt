@@ -1,0 +1,3 @@
+/home/sten_bone/repos/PointersVsReferences/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sten_bone/repos/PointersVsReferences/cmake-build-debug/CMakeFiles/references.dir
+/home/sten_bone/repos/PointersVsReferences/cmake-build-debug/CMakeFiles/edit_cache.dir
